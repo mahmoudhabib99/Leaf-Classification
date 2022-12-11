@@ -1,17 +1,26 @@
 # Leaf-Classification
-In this project, you will use the Leaf Classification dataset using a neural 
-network architecture. 
+In this project, you will use the Leaf Classification dataset using a neural network architecture. 
+
 Download the data file, load it
+
 Describe the data
+
 Clean the data 
+
 Check the data for missing values or duplicates and carry out proper correction methods
+
 Visualize the data using proper visualization methods. 
+
 Draw some of the images 
+
 Carry out required correlation analysis
+
 Divide the data into a training and test set using approximately 80% for training.  
+
 Encode the labels
 
 Part II: Training a neural network
+
 Applying training function and exploring the following hyperparameter settings:
 
 • Batch size: Number of examples per training iteration. 
